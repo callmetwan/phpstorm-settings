@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Exclude .min files from search" />
+    <option name="defaultScopeName" value="Exclude .min files from search" />
+    <option name="SEARCH_SCOPE" value="Exclude .min files from search" />
+  </component>
+</application>

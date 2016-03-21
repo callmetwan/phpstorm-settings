@@ -1,0 +1,22 @@
+<application>
+  <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="SASS" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9" value="PHP" />
+  </component>
+</application>
