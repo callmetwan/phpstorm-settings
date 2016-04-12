@@ -29,6 +29,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="ce5b2e19-8cb8-42bb-8ddb-cf5d08332661" name="rscvm-ecdev - FenceBuilder" url="">
+        <fileTransfer host="192.168.15.101" port="22" rootFolder="/var/www/vhosts/agarritano/petsafe_fencebuilder" accessType="SFTP" password="dfd9dfcfdfcfdfd9dfdadfc5dfdedfd8dfdfdfc4df98df9bdf8b" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
