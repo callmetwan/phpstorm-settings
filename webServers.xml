@@ -36,6 +36,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="1c6bbf45-5ab7-4f73-9aa3-6a0a3da6cc22" name="rscvm-ecdev01 - SD EE INTL" url="http://agarritano.intl.petsafe.net">
+        <fileTransfer host="192.168.15.101" port="22" rootFolder="/var/www/vhosts/agarritano/ee-intlsd" accessType="SFTP" password="dfd9dfcfdfcfdfd9dfdadfc5dfdedfd8dfdfdfc4df98df9bdf8b" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
