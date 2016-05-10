@@ -3,5 +3,6 @@
     <option name="customScope" value="Exclude .min files from search" />
     <option name="defaultScopeName" value="Exclude .min files from search" />
     <option name="SEARCH_SCOPE" value="Exclude .min files from search" />
+    <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
