@@ -2,6 +2,7 @@
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css" value="CSS" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scss" value="SCSS" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.css" value="CSS" />
   </component>
